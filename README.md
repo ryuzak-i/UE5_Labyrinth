@@ -11,44 +11,6 @@ To move in the game, use the `WASD` keys. `Space` for jumping, `Shift` for runni
 
 **You can watch the gameplay on YouTube by following this link: [UE5_Labyrinth - Gameplay](https://www.youtube.com/watch?v=lJkwDgJ0l68).**
 
-## Attribution
-**Icons by Icons8 (https://icons8.com/):**
-- KeyE (https://icons8.com/icon/52183/explicit)
-- Blocked (https://icons8.com/icon/12405/unavailable)
-- Timer (https://icons8.com/icon/15929/hourglass)
-- Keys (https://icons8.com/icon/10497/password-key)
-
-**Audios from Freesound (https://freesound.org/):**
-- Background music
-
-> 2024-02-16_Background-Sound_Game-music_Remix by kevp888 -- https://freesound.org/s/723909/ -- License: Attribution NonCommercial 4.0
-Game music 2 by CollectionOfMemories -- https://freesound.org/s/723129/ -- License: Attribution 4.0
-Background Sound N24 by Valo -- https://freesound.org/s/723121/ -- License: Attribution NonCommercial 4.0
-
-- Win/Lose
-
-> You Win/Lose! Fight Announcer VO (Multiple Takes/Wet) by EvanBoyerman -- https://freesound.org/s/418326/ -- License: Attribution 3.0
-
-- Pick key
-
-> inspect item.wav by niamhd00145229 -- https://freesound.org/s/422709/ -- License: Creative Commons 0
-
-- Open door
-
-> concrete blocks moving3.wav by FreqMan -- https://freesound.org/s/25847/ -- License: Attribution 4.0
-
-- Menu buttons
-
-> Action Heavy.wav by ryusa -- https://freesound.org/s/467555/ -- License: Attribution 4.0
-
-- Footsteps
-
-> Hiking Boot Footsteps on Stone by Fission9 -- https://freesound.org/s/521590/ -- License: Creative Commons 0
-
-- Enemy
-
-> putrid_heartbeat.wav by Asteroiderer -- https://freesound.org/s/439410/ -- License: Creative Commons 0
-
 ## Idea of creating
 Once, I was sent a technical task for the position of Junior Unity Developer. I didn't have time to implement this project then. But later I decided to try to implement this project not on Unity, but on Unreal Engine. I downloaded the latest version of UE, and started learning from video courses on YouTube. About a month later, I decided that I had acquired enough knowledge to implement this project. But not everything was going as well as I would like. There were some delays due to understanding how artificial intelligence works and reworking the basic logic of the project. Still, I managed to finish this project and bring it to a playable state that I'm not ashamed of. I tried to compress the physical size of the project as much as possible to make it convenient to work with it through GitHub. Below are the requirements for the technical task.
 
@@ -97,3 +59,41 @@ the number of keys needed to open the exit.
 - General cleanliness of the project.
 - Creativity and innovation.
 - Deadline: up to 5 days.
+
+## Credits
+**Icons by Icons8 (https://icons8.com/):**
+- KeyE (https://icons8.com/icon/52183/explicit)
+- Blocked (https://icons8.com/icon/12405/unavailable)
+- Timer (https://icons8.com/icon/15929/hourglass)
+- Keys (https://icons8.com/icon/10497/password-key)
+
+**Audios from Freesound (https://freesound.org/):**
+- Background music
+
+> 2024-02-16_Background-Sound_Game-music_Remix by kevp888 -- https://freesound.org/s/723909/ -- License: Attribution NonCommercial 4.0
+Game music 2 by CollectionOfMemories -- https://freesound.org/s/723129/ -- License: Attribution 4.0
+Background Sound N24 by Valo -- https://freesound.org/s/723121/ -- License: Attribution NonCommercial 4.0
+
+- Win/Lose
+
+> You Win/Lose! Fight Announcer VO (Multiple Takes/Wet) by EvanBoyerman -- https://freesound.org/s/418326/ -- License: Attribution 3.0
+
+- Pick key
+
+> inspect item.wav by niamhd00145229 -- https://freesound.org/s/422709/ -- License: Creative Commons 0
+
+- Open door
+
+> concrete blocks moving3.wav by FreqMan -- https://freesound.org/s/25847/ -- License: Attribution 4.0
+
+- Menu buttons
+
+> Action Heavy.wav by ryusa -- https://freesound.org/s/467555/ -- License: Attribution 4.0
+
+- Footsteps
+
+> Hiking Boot Footsteps on Stone by Fission9 -- https://freesound.org/s/521590/ -- License: Creative Commons 0
+
+- Enemy
+
+> putrid_heartbeat.wav by Asteroiderer -- https://freesound.org/s/439410/ -- License: Creative Commons 0
